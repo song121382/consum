@@ -1,0 +1,35 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.defence"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "microservice",
+    "baseName": "consum",
+    "packageName": "com.defence",
+    "packageFolder": "com/defence",
+    "serverPort": "7777",
+    "authenticationType": "uaa",
+    "uaaBaseName": "uaa",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGQwYmI2NjY5ZTAzY2E3Y2UxMzhiMTljOGM3ODMxNTdkZGQ4MmQ1MmZhZDY4Y2Y3ODkyMTk0MDMwYTRiMmJhODMyOTZjNWE2MDc5MTBmZDc5ZjQ2MmI3OTAxOWZkYWYwMzA5OTNkNzYwY2JjNzgxY2UxYzYxOTYyMjVhMDYwMDU=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
